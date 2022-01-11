@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [clipboard-landing-page-master](https://clipboard-landing-page-master.netlify.app)
+- Live Site URL: [clipboard-landing-page-master](https://clipboard-landing-page-master1.netlify.app)
 
 ### Built with
 
